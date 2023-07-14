@@ -1,0 +1,50 @@
+AWS Domain:
+-Compute services
+-Networking
+-Storage
+-Database
+
+What is Ec2:?
+-It stands for elastic cloud computing
+-It is a virtual machine that runs on the cloud
+-Based on the usage , we can accomodate the services
+
+
+Ec2 instance types:
+-it determine the hardware of the underlying host on which ec2 instance are launched.
+1.General purpose:t2.micro, most of 'm series'
+2.Memory optimized:r4,x1
+3.Stoarge optimized:h1,d2,l3
+4.Accelerated computing:p series,f1
+5.Compute optimized:c5,c4,c3
+
+Ami:
+-it stands for amazon machine image
+-it contains information required to launch a instance
+-  	  
+
+Uniqe entity for my instance:
+-instance_id
+- 
+
+Advantages:
+-cost effectiveness:pay as you go
+-easy to create and terminate:
+-scalability:vertical(t2--t3),horizontal scaling(t2--t2,t2,t2,t2)
+-time saving
+-flexibility
+-security
+-higher availabilty
+-fault tolreant in some cases
+-reliable 
+
+Disadvanatges:
+-lack of experts
+-general issues
+
+
+
+
+
+
+

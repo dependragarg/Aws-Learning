@@ -1,0 +1,16 @@
+ELB LISTENER HOW TO SPECIFY TARGET GROUP AND DO WEIGHTED ROUTING.
+
+https://us02web.zoom.us/rec/share/NPw5lyVdJ9nJqESbIrqChyxjhhvDV6xQEC0hPmXcRGWzdmiR1ZPBiYdYG3m3zn5O.RfJx4K2O6u-_B2Lc 
+Passcode: 8156*i^^
+
+Module 3 ELB, ASG, Route 53 Assignment - Sudip:
+
+https://us02web.zoom.us/rec/share/wEJH_e9V7gg6rup3TgVK7CnwT0xI5JRTzPD2lu6qgZ0LDisdFnHfTE5k7NwAYXJP.Aa1GvTOoIRFimcGu 
+
+Passcode: ?0K*6R7M
+
+Module 3 CASE STUDY POINT 1 AND 2 (DYNAMIC SCALING : TIMESTAMP 1HR:57MIN)
+
+https://us02web.zoom.us/rec/share/IhlRzJvh9EPoV83zNYKuRvZZ-mdi8j7EBsNUreZFVaBJezxiTySGsFXFyZT1j8s.bF38NelJo8ZQsWKg 
+Passcode: 6mD?1#58
+
